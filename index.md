@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# 王晓丹的个人主页
 
-You can use the [editor on GitHub](https://github.com/WangXiaoDangt/wangxiaodangt.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 个人信息
+### 姓名：王晓丹                     ### 性别：女
+### 出生年月：1998年2月              ### 籍贯：山东潍坊
+### 政治面貌:中共预备党员            ### 学历：本科学士
+### 邮箱：18032796626@163.com       ### 电话：18032796626
 
-### Markdown
+## 求职目标：
+### 软件工程师
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 教育背景：
+### 2016.09-至今       石家庄铁道大学         软件工程            学士
+### 主修课程：算法与数据结构、计算机网络、操作系统、C语言程序设计、C++语言程序设计、Java语言程序设计、Web应用技术、大数据技术与应用、移动应用开发### 技术、软件测试、软件工程概论、软件体系机构、软件构造、软件过程与管理、铁路信息技术概论、离散数学等。                         
 
-```markdown
-Syntax highlighted code block
+## 专业技能：
+### 1.熟练掌握C、C++、Java等程序设计语言；
+### 2.擅长Web网页设计、.Net系统和安卓应用的开发；
+### 3.通过CET4考试，具有较好的英语阅读及沟通能力。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WangXiaoDangt/wangxiaodangt.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
